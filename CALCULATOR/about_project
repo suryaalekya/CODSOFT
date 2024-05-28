@@ -1,0 +1,24 @@
+# Calculator
+
+Welcome to the calculator project, part of my Codsoft internship tasks. This project is a simple web-based calculator that performs basic arithmetic operations.
+
+## Table of Contents
+
+- Introduction
+- Features
+- Technologies Used
+
+## Introduction
+
+This is a simple yet functional calculator that performs basic arithmetic operations. It is a great project for practicing HTML, CSS, and JavaScript.
+
+## Features
+
+- Basic arithmetic operations (addition, subtraction, multiplication, division)
+- Responsive design
+- Clear button to reset the input
+
+## Technologies Used
+
+- HTML
+- CSS
